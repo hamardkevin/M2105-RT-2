@@ -37,6 +37,8 @@ switch ($op) {
         break;   
         
 }
+
+
 }
 function createHtmlTable ($nbLignes, $nbCols)
 {
